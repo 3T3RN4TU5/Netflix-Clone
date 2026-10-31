@@ -2,7 +2,7 @@
 
 A streaming-style browser for real TV shows: a rotating billboard, scrolling rows by genre, a Top 10, a details view with cast and every season's episodes, search, and a watch list. Built on the free [TVmaze API](https://www.tvmaze.com/api), so there is no key and nothing to sign up for.
 
-**Live:** https://jeevan2410.github.io/Netflix-Clone/
+**Live:** https://3t3rn4tu5.github.io/Netflix-Clone/
 
 ![Reelhouse home page with a Breaking Bad billboard and the Top 10 row](assets/screenshot.webp)
 
